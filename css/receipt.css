@@ -1,0 +1,73 @@
+.heading{
+  background-color: rgb(93, 12, 128);
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.roboto{
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  padding-left: 25px;
+}
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    display: block;
+  
+  
+}
+.receipt-container{
+  width: 80%;
+  border: 1px solid gray;
+  margin: 0 auto;
+
+}
+.fees{
+  font-weight: bold;
+  font-size: 25px
+}
+.image{
+  width: 130px;
+  margin-left: 70%;
+}
+.info{
+  font-weight: bold;
+  font-size: 20px
+}
+.date{
+  padding-left: 350px;
+}
+.left{
+  padding-left: 400px;
+  font-weight: bold;
+  font-size: 20px
+}
+.details{
+  font-weight: bold;
+  font-size: 20px;
+}
+.side{
+  padding-left: 550px
+}
+.side1{
+  padding-left: 420px;
+}
+.side2{
+  padding-left: 570px;
+}
+.image2{
+    width: 200px;
+    margin-left: 70%;
+    
+}
+.footer{
+  margin-left: 73%;
+
+}
+.bottom{
+  background-color: rgb(93, 12, 128);
+  margin-left: 30px;
+  margin-right: 50px;
+}
